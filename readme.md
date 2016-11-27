@@ -1,18 +1,21 @@
-# tachyons-sass
+# tachyons-sass-custom
 
-Transpiled partials for Tachyons.
+Generated partials for Tachyons. Easy to customize to your needs.
 
 ## Installation
 
-```bash
-npm install --save tachyons-sass
-```
+Download repo and copy source-code into your project's sass folder
 
 ## Usage
 
 ```scss
 @import "path/to/tachyons.scss";
 ```
+(Must be compiled to generate classes)
+
+## Customizing
+
+[WIP]
 
 ## License
 
@@ -28,6 +31,6 @@ MIT
 
 Built by [@mrmrs_](https://twitter.com/mrmrs_) & [@4lpine](https://twitter.com/4lpine).
 
-***
+Generative classes added by [@dfosco](https://twitter.com/dfosco).
 
-> This package was initially generated with [yeoman](http://yeoman.io) and the [p generator](https://github.com/johnotander/generator-p.git).
+***

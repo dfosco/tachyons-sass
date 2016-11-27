@@ -1,0 +1,84 @@
+/*
+
+  COLOR MAP
+  Docs: ?
+
+  Add your own colors to this map to have classes automatically created for them!
+
+  Just add the color variable _colors.scss and then place it in the list below
+
+ */
+
+  $color-map: (
+
+  // CUSTOM COLORS
+  "plat-teal": unquote("#{$plat-teal}"),
+  "terminal-blue": unquote("#{$terminal-blue}"),
+
+  // DEFAULT COLORS
+  "black": unquote("#{$black}"),
+  "near-black": unquote("#{$near-black}"),
+  "dark-gray": unquote("#{$dark-gray}"),
+  "mid-gray": unquote("#{$mid-gray}"),
+  "gray": unquote("#{$gray}"),
+  "silver": unquote("#{$silver}"),
+  "light-silver": unquote("#{$light-silver}"),
+  "moon-gray": unquote("#{$moon-gray}"),
+  "light-gray": unquote("#{$light-gray}"),
+  "near-white": unquote("#{$near-white}"),
+  "white": unquote("#{$white}"),
+
+  "transparent": unquote("#{$transparent}"),
+
+  "black-90": unquote("#{$black-90}"),
+  "black-80": unquote("#{$black-80}"),
+  "black-70": unquote("#{$black-70}"),
+  "black-60": unquote("#{$black-60}"),
+  "black-50": unquote("#{$black-50}"),
+  "black-40": unquote("#{$black-40}"),
+  "black-30": unquote("#{$black-30}"),
+  "black-20": unquote("#{$black-20}"),
+  "black-10": unquote("#{$black-10}"),
+  "black-05": unquote("#{$black-05}"),
+  "black-025": unquote("#{$black-025}"),
+  "black-0125": unquote("#{$black-0125}"),
+
+  "white-90": unquote("#{$white-90}"),
+  "white-80": unquote("#{$white-80}"),
+  "white-70": unquote("#{$white-70}"),
+  "white-60": unquote("#{$white-60}"),
+  "white-50": unquote("#{$white-50}"),
+  "white-40": unquote("#{$white-40}"),
+  "white-30": unquote("#{$white-30}"),
+  "white-20": unquote("#{$white-20}"),
+  "white-10": unquote("#{$white-10}"),
+  "white-05": unquote("#{$white-05}"),
+  "white-025": unquote("#{$white-025}"),
+  "white-0125": unquote("#{$white-0125}"),
+
+  "dark-red": unquote("#{$dark-red}"),
+  "red": unquote("#{$red}"),
+  "light-red": unquote("#{$light-red}"),
+  "orange": unquote("#{$orange}"),
+  "gold": unquote("#{$gold}"),
+  "yellow": unquote("#{$yellow}"),
+  "light-yellow": unquote("#{$light-yellow}"),
+  "purple": unquote("#{$purple}"),
+  "light-purple": unquote("#{$light-purple}"),
+  "dark-pink": unquote("#{$dark-pink}"),
+  "hot-pink": unquote("#{$hot-pink}"),
+  "pink": unquote("#{$pink}"),
+  "light-pink": unquote("#{$light-pink}"),
+  "dark-green": unquote("#{$dark-green}"),
+  "green": unquote("#{$green}"),
+  "light-green": unquote("#{$light-green}"),
+  "navy": unquote("#{$navy}"),
+  "dark-blue": unquote("#{$dark-blue}"),
+  "blue": unquote("#{$blue}"),
+  "light-blue": unquote("#{$light-blue}"),
+  "lightest-blue": unquote("#{$lightest-blue}"),
+  "washed-blue": unquote("#{$washed-blue}"),
+  "washed-green": unquote("#{$washed-green}"),
+  "washed-yellow": unquote("#{$washed-yellow}"),
+  "washed-red": unquote("#{$washed-red}"),
+);
